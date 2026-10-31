@@ -1,0 +1,30 @@
+{
+  "retrieved": "2026-10-30",
+  "faces": "Lexend 500; Source Sans 3 400 and 600 (shared unmodified WOFF2)",
+  "assets": [
+    {
+      "file": "lexend-latin-500.woff2",
+      "source": "https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WCwkWzLdneg.woff2",
+      "sha256": "27cf5288dd5129fb2f93d230e4e9df7684222d732767284b142801c274ce95b0",
+      "bytes": 14864
+    },
+    {
+      "file": "source-sans-3-latin.woff2",
+      "source": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
+      "sha256": "19143dca075972bc84e3fd9eab7416dd40cc565dccb2435a044bdfabe060c7d5",
+      "bytes": 28872
+    },
+    {
+      "file": "Lexend-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lexend/OFL.txt",
+      "sha256": "5da8505887d0fa7fe963445fd58852707fda34adfeb65af25c99d152bab285bd",
+      "bytes": 4436
+    },
+    {
+      "file": "Source-Sans-3-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sourcesans3/OFL.txt",
+      "sha256": "09746787287a289323b0ec3cff4d1a4a801331b82b7207c1e186f5d26619a392",
+      "bytes": 4579
+    }
+  ]
+}

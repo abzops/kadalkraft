@@ -1,0 +1,50 @@
+{
+  "retrieved": "2026-10-30",
+  "purpose": "Representative photography, not evidence of company inventory, facilities, specifications or origin.",
+  "assets": [
+    {
+      "file": "hero-prawns.webp",
+      "source": "https://unsplash.com/photos/fresh-raw-shrimp-piled-on-ice-qP8zLRp4uf0",
+      "download": "https://images.unsplash.com/photo-1756364084889-9a8d9ece6112?w=2600&q=90&fit=max",
+      "photographer": "Engin Akyurt",
+      "license": "https://unsplash.com/license",
+      "width": 2400,
+      "height": 1800,
+      "bytes": 425608,
+      "sha256": "245051e40dd1c0496ce0335c1e49b365a8d960b4cbf69c9498666ead7196708a"
+    },
+    {
+      "file": "shrimp.webp",
+      "source": "https://www.pexels.com/photo/gray-shrimps-with-ice-12417979/",
+      "download": "https://images.pexels.com/photos/12417979/pexels-photo-12417979.jpeg?cs=srgb&fm=jpg",
+      "photographer": "Rabiul Islam",
+      "license": "https://www.pexels.com/license/",
+      "width": 900,
+      "height": 1200,
+      "bytes": 360502,
+      "sha256": "15ccb90101c8b80f0fe05addd52729527ac4cb51fbc1577b7661c64327d17bdf"
+    },
+    {
+      "file": "squid.webp",
+      "source": "https://www.pexels.com/photo/close-up-shot-of-squid-in-the-market-9995821/",
+      "download": "https://images.pexels.com/photos/9995821/pexels-photo-9995821.jpeg?cs=srgb&fm=jpg",
+      "photographer": "Ronny Siegel",
+      "license": "https://www.pexels.com/license/",
+      "width": 1200,
+      "height": 800,
+      "bytes": 77988,
+      "sha256": "171fcc4e4c852da8ae1c1ef57669f2833cc2b58154962ff1892acfde95852cf8"
+    },
+    {
+      "file": "cuttlefish.webp",
+      "source": "https://unsplash.com/photos/a-box-filled-with-lots-of-cut-up-fish-EcWVExidGx0",
+      "download": "https://images.unsplash.com/photo-1634467524982-c18fd70078f1?w=1800&q=85&fit=max",
+      "photographer": "Wouter Supardi Salari",
+      "license": "https://unsplash.com/license",
+      "width": 1400,
+      "height": 933,
+      "bytes": 101772,
+      "sha256": "2d1df60aa14f87b2b5a278711055f00c0c9f3ea8577001617509e471723467b6"
+    }
+  ]
+}

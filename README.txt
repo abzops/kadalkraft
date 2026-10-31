@@ -1,13 +1,15 @@
-KADALKRAFT WEBSITE
-Buildless static HTML, CSS and JavaScript for GitHub Pages.
+Kadalkraft — Scroll Craft website, 31 October 2026
 
-Edit index.html for content, styles.css for layout, and app.js for navigation and enquiry behaviour. The approved outlined logo assets are in assets. All image files are local WebP; no runtime external image requests are required.
+Upload all files and folders in this release to your static website host. index.html belongs at the site root. No build step is required.
 
-Contact: Kochi / 9400568744 / info@kadalkraft.com / kadalkraft.com.
-The enquiry form opens a prefilled email draft; the visitor must send it through their mail client. It does not submit to a backend and does not claim delivery. WhatsApp opens a conversation with +919400568744.
+Default live configuration: confirmed email/telephone/WhatsApp contacts. The optional enquiry form is hidden until a valid endpoint is configured in config.js. See FORM-SETUP.md. Never add secret credentials to public files.
 
-Deployment: publish main branch / root to GitHub Pages. The .nojekyll file disables Jekyll. The project is self-contained and needs no build dependencies. Canonical and Open Graph URLs point to https://abzops.github.io/kadalkraft/.
+The site uses self-hosted fonts and representative seafood photographs. Original source pages, photographer names and licence links appear in credits.html and assets/photography/sources.json. These images are not evidence of company inventory, facilities or specifications.
 
-The custom domain kadalkraft.com is contact information only for now; no CNAME or DNS changes were made. Switch canonical, sitemap and Open Graph URLs when domain setup is intentionally completed.
+The canonical URL, social URLs, robots.txt and sitemap.xml currently use https://abzops.github.io/kadalkraft/. Update these if publishing at another domain.
 
-Photography attribution and source links are on credits.html. Images are representative, not photographs of company facilities or shipments.
+DRAFT_MODE is false. It can be enabled only on a local host. Unconfirmed business credentials/specifications are omitted from the public website.
+
+No deployment has been performed by this package. Browser visual review of this version is pending because browser access is currently disabled; source checks, contrast checks and motion logic tests have passed.
+
+Scroll Craft engine and licence are included locally. Product category selection is held only in page memory and changes the email/WhatsApp draft links. No contact action sends automatically.
