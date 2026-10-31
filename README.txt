@@ -6,7 +6,7 @@ Default live configuration: confirmed email/telephone/WhatsApp contacts. The opt
 
 The site uses self-hosted fonts and representative seafood photographs. Original source pages, photographer names and licence links appear in credits.html and assets/photography/sources.json. These images are not evidence of company inventory, facilities or specifications.
 
-The canonical URL, social URLs, robots.txt and sitemap.xml currently use https://abzops.github.io/kadalkraft/. Update these if publishing at another domain.
+The custom domain is kadalkraft.com. CNAME, canonical URLs, social URLs, robots.txt and sitemap.xml use https://kadalkraft.com/.
 
 DRAFT_MODE is false. It can be enabled only on a local host. Unconfirmed business credentials/specifications are omitted from the public website.
 

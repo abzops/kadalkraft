@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://abzops.github.io/kadalkraft/sitemap.xml
+Sitemap: https://kadalkraft.com/sitemap.xml
