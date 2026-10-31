@@ -10,6 +10,6 @@ The custom domain is kadalkraft.com. CNAME, canonical URLs, social URLs, robots.
 
 DRAFT_MODE is false. It can be enabled only on a local host. Unconfirmed business credentials/specifications are omitted from the public website.
 
-No deployment has been performed by this package. Browser visual review of this version is pending because browser access is currently disabled; source checks, contrast checks and motion logic tests have passed.
+The repository is published through GitHub Pages. The custom domain kadalkraft.com is configured. Browser visual review of this version is pending because browser access is currently disabled; source checks, contrast checks and motion logic tests have passed.
 
 Scroll Craft engine and licence are included locally. Product category selection is held only in page memory and changes the email/WhatsApp draft links. No contact action sends automatically.
